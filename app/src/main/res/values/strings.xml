@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Farbenspiel</string>
+    <!-- Willkommens Meldung -->
+    <string name="willkommen">Herzlich Willkommen</string>
+
+    <!-- Beschriftung für die Schaltflächen -->
+    <string name="red">Rot</string>
+    <string name="yellow">Gelb</string>
+    <string name="end">Beenden</string>
+
+</resources>
